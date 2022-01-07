@@ -1,0 +1,27 @@
+{
+    "cards":[
+        {
+        "img":"./image/img1.jpg",
+        "name":"sansung",
+        "price":"12k",
+        "model":"j2",
+        "offer":"9k"
+        },
+        {
+        "img":"./image/img1.jpg",
+        "name":"iphone",
+        "price":"12k",
+        "model":"j2",
+        "offer":"9k"
+        },
+        {
+        "img":"./image/img1.jpg",
+        "name":"sansung",
+        "price":"12k",
+        "model":"j2",
+        "offer":"9k"
+        }
+    ]
+}
+
+
